@@ -1,0 +1,9 @@
+# Pin a light theme so the "experiment readout" renders as designed for every
+# viewer (its white cards + dark text assume a light canvas). Deterministic,
+# not dependent on the visitor's browser/system dark mode.
+[theme]
+base = "light"
+primaryColor = "#10b981"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f8fa"
+textColor = "#0f172a"
