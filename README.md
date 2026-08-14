@@ -15,12 +15,12 @@
 
 ## What the app does
 
-An interactive Streamlit app with four views:
+A Streamlit **experiment readout** — a single-page decision memo, not a tabbed dashboard:
 
-1. **Results** — the headline lift, significance, confidence interval, revenue-per-user, and the guardrail check, with a clear ship/no-ship verdict.
-2. **Segments** — a separate z-test for every device, channel, and region, surfacing the mobile-driven heterogeneity.
-3. **Exposure & Frequency** — the conversion-vs-frequency curve with the fatigue (unsubscribe) overlay and a recommended frequency cap.
-4. **Calculator & Methodology** — a live A/B calculator (plug in any two groups), a **sample-size / power planner**, and a plain-English explanation of every statistic used.
+- Opens with the **ship/no-ship verdict** and the headline numbers as stat cards.
+- Proves the win with a **confidence-interval number-line** (does the lift clear zero?).
+- Answers **"for whom?"** via a per-segment z-test (mobile drives the lift) and **"how often?"** via the conversion-vs-fatigue frequency curve with a recommended cap.
+- A sidebar **toolbox** holds a live A/B calculator and a **sample-size / power planner**.
 
 ▶ **Live app:** _deploy to Streamlit Community Cloud and drop the link here._
 
