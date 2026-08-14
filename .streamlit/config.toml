@@ -1,9 +1,8 @@
-# Pin a light theme so the "experiment readout" renders as designed for every
-# viewer (its white cards + dark text assume a light canvas). Deterministic,
-# not dependent on the visitor's browser/system dark mode.
+# Pinned light theme. Soft-gray canvas so the white cards/panels lift off the
+# page with subtle shadows (a flat white-on-white looked cramped).
 [theme]
 base = "light"
 primaryColor = "#10b981"
-backgroundColor = "#ffffff"
-secondaryBackgroundColor = "#f6f8fa"
+backgroundColor = "#f3f5f9"
+secondaryBackgroundColor = "#ffffff"
 textColor = "#0f172a"
