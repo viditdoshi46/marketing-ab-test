@@ -1,0 +1,9 @@
+group,channel,users,conversions,revenue,unsubscribes
+control,Display,53825,1013,61861.45,830
+control,Email,45038,1508,95053.56,712
+control,Paid Search,102331,3976,240571.31,1517
+control,Social,99098,2726,166067.12,1463
+treatment,Display,53548,1197,77463.49,761
+treatment,Email,45152,1710,109221.81,680
+treatment,Paid Search,101892,4334,281224.08,1441
+treatment,Social,99116,3027,195314.88,1408

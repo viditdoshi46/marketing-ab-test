@@ -1,0 +1,9 @@
+group,region,users,conversions,revenue,unsubscribes
+control,Midwest,59996,1840,112995.55,927
+control,Northeast,66408,2026,124356.45,1027
+control,South,90079,2730,169217.63,1384
+control,West,83809,2627,156983.81,1184
+treatment,Midwest,59992,2087,131381.52,893
+treatment,Northeast,65598,2169,140691.51,909
+treatment,South,90224,3125,202746.65,1293
+treatment,West,83894,2887,188404.58,1195

@@ -1,0 +1,11 @@
+# private — never ship the interview prep
+INTERVIEW_STUDY_GUIDE.md
+
+# large regenerable raw file (aggregates are committed; recreate with run_all.py)
+data/experiment.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

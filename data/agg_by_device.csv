@@ -1,0 +1,7 @@
+group,device,users,conversions,revenue,unsubscribes
+control,Desktop,93052,3166,193072.66,1379
+control,Mobile,186181,5505,337907.46,2812
+control,Tablet,21059,552,32573.32,331
+treatment,Desktop,93137,3247,208521.59,1376
+treatment,Mobile,185741,6426,415315.68,2628
+treatment,Tablet,20830,595,39386.99,286
